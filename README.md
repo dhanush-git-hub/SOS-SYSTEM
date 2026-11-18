@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SAFEZONE – Emergency Contact & Live Location Sharing Platform
 ### Developed for CEC-HACKSTORM-2026
 
@@ -80,3 +81,7 @@ npm run preview
 - **Project**: SAFEZONE
 - **Hackathon**: CEC-HACKSTORM-2026
 - **Status**: Production Ready & Fully Tested
+=======
+# SOS-SYSTEM
+SAFTEY WEB SITE
+>>>>>>> 007f247186af32e48ebc0814ce94d701963aec5c
